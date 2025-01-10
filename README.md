@@ -1,6 +1,6 @@
 # HTML Alert replacing default JS Alert
 * Old Style: alert("Hello! What's up!!"); <br>
-* New Style: <p id="alertMessage" style="color: red; display: none;"></p> + little JavaScript <br>
+* New Style: plain text message directly in HTMl. You can edit the HTML code to match template <br>
 * You can use same code for multiple times in same page. 
 
  <br> <br>
