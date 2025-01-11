@@ -1,4 +1,4 @@
-# HTML Alert replacing JS Window Alert
+# HTML Alert instead of JS Window Alert
 * Old Style: alert("Hello! What's up!!"); <br>
 * New Style: plain text message directly in HTMl. You can edit the HTML code to match template <br>
 * You can use same code for multiple times in same page. 
